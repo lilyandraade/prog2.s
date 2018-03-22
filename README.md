@@ -68,7 +68,7 @@ start:  initIO                  * Initialize (required for I/O)
 *----------------------------------------------------------------------
 *       Storage declarations
 newline: dc.b	0
-title: 	dc.b	'Program #2, Lily Andrade, cssc0784',0
+title: 	dc.b	'Program #2, Lily Andrade',0
 prompt1: dc.b	'Enter the amount of the loan:',0
 buffer: ds.b	80
 prompt2: dc.b	'Enter the annual percentage rate:',0
